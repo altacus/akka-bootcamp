@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Net.Configuration;
 using Akka.Actor;
 
 namespace WinTail
